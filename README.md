@@ -1,3 +1,8 @@
+# Deprecated 
+This repository has been deprecated. Please find the latest code here: 
+https://github.com/vaadin-component-factory/chat
+
+
 # Incubator Chat for Flow
 
 Incubator Chat for Flow is server-side component of [incubator-chat](https://github.com/vaadin/incubator-chat) web component for Vaadin 10. 
